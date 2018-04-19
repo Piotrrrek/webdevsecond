@@ -157,10 +157,6 @@ p_about_us {
     height: 55px;
 }
 
-img_tomato {
-    position: relative;
-}
-
 .img_tomato .services_down_p {
     position: absolute;
     top: 50%;
