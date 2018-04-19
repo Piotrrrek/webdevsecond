@@ -38,7 +38,7 @@
     }
     /*services*/
     #services {
-        background: url(images/body/services/img_tomato.png) no-repeat center center;
+        background: url(../images/body/services/img_tomato.png) no-repeat center center;
         background-size: contain;
         background-color: rgb(112, 191, 255);
     }
@@ -79,7 +79,7 @@
         bottom: 0;
         left: 0;
         right: 0;
-        background: url(images/body/subscribe/bacground_image.jpg) no-repeat right center;
+        background: url(../images/body/subscribe/bacground_image.jpg) no-repeat right center;
         opacity: 0.6;
     }
 

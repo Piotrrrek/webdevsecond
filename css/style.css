@@ -269,7 +269,7 @@ img_tomato {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    background: url('images/body/subscribe/bacground_image.jpg')no-repeat right center;
+    background: url('../images/body/subscribe/bacground_image.jpg')no-repeat right center;
     background-size: cover;
     height: 500px;
     position: relative;
@@ -448,7 +448,7 @@ img_tomato {
 /*Contact*/
 
 #contact {
-    background: url('images/body/footer/bacground_image.jpg')no-repeat right center;
+    background: url('../images/body/footer/bacground_image.jpg')no-repeat right center;
     background-size: cover;
     height: auto;
     padding-bottom: 100px;
