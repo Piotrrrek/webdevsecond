@@ -494,16 +494,16 @@ form {
 }
 
 .contact_input,
-textarea {
+.text__area {
     padding: 20px;
 }
 
 .contact_input::placeholder,
-textarea::placeholder {
+.text__area::placeholder {
     color: rgb(255, 255, 255);
 }
 
-textarea {
+.text__area {
     height: 250px;
     width: 100%;
     min-height: 200px;
@@ -515,7 +515,7 @@ textarea {
     opacity: 0.5;
 }
 
-textarea:focus {
+.text__area:focus {
     border-left-width: 3px;
     border-left-color: rgb(53, 91, 130);
     opacity: 1;
