@@ -124,6 +124,12 @@
 }
 
 @media(max-width:768px) {
+    /*navigation*/
+    
+    .navbar{
+        background-color:rgb(255, 255, 255)!important;
+    }
+    
     /*home*/
     #home{
     background: url('../images/header/background1.jpg') no-repeat center center;
