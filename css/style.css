@@ -499,7 +499,16 @@ form {
 .text__area::placeholder {
     color: rgb(255, 255, 255);
 }
-
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+.text__area{
+    font-weight: bold;
+}
+.contact_input:focus::placeholder,
+.text__area:focus::placeholder{
+    font-weight: 700;
+}
 .text__area {
     height: 250px;
     width: 100%;
