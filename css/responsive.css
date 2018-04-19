@@ -17,7 +17,7 @@
         bottom: 0;
         left: 0;
         right: 0;
-        background: url(images/header/background1.jpg) no-repeat right center;
+        background: url(../images/header/background1.jpg) no-repeat right center;
         opacity: 0.4;
     }
     #home .home_h {
@@ -126,7 +126,7 @@
 @media(max-width:768px) {
     /*home*/
     #home{
-    background: url('images/header/background1.jpg') no-repeat center center;
+    background: url('../images/header/background1.jpg') no-repeat center center;
     background-size: cover;
     }
     .home_cont {

@@ -7,7 +7,7 @@ body {
 /* Header / home */
 
 #home {
-    background: url('images/header/background1.jpg') no-repeat right center;
+    background: url(../images/header/background1.jpg) no-repeat right center;
     background-size: cover;
 }
 
