@@ -55,14 +55,6 @@ nav li a:hover {
     border-top: 3px solid rgb(255, 96, 51);
 }
 
-nav li a:active {
-    /* Style for "active" */
-    color: rgb(0, 0, 0);
-    border-top: 3px solid rgb(255, 96, 51);
-    transition-duration: 1s !important;
-    transition-timing-function: ease-in-out;
-}
-
 .btn1 {
     /* Style for "bg" */
     width: 200px;
