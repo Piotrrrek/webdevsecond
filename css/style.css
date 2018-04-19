@@ -186,7 +186,9 @@ img_tomato {
 }
 
 .vertical_line {
-    background-color: rgb(157, 157, 157) width: 1px;
+    
+    background-color: rgb(157, 157, 157);
+    width: 1px;
     height: 100px;
 }
 
