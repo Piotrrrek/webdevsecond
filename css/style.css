@@ -3,7 +3,6 @@
 * {
     font-family: "Raleway";
 }
-
 /* Header / home */
 
 #home {
@@ -225,13 +224,6 @@ nav li a:hover {
     padding-top: 100px;
 }
 
-.gallery_span {
-    /* Style for "VIEW MORE" */
-    color: rgb(255, 255, 255);
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 27px;
-}
 
 .btn4 {
     /* Style for "bg" */
@@ -243,8 +235,7 @@ nav li a:hover {
     background-color: rgb(85, 133, 162);
 }
 .btn4:hover{
-    background-color: rgb(50, 133, 162);
-    opacity: 0.9;
+    background-color: rgb(50, 133, 162);;
 }
 .btn4 span {
     /* Style for "VIEW MORE" */
@@ -253,9 +244,7 @@ nav li a:hover {
     color: rgb(255, 255, 255);
     font-size: 20px;
     font-weight: 300;
-
 }
-
 /*Gallery photos*/
 
 .gallery_photos img {
@@ -409,8 +398,11 @@ nav li a:hover {
     margin-top: 70px;
     display: flex;
     justify-content: center;
+    
 }
-
+.blog_a{
+    text-decoration: none!important;
+}
 .blog_button {
     display: flex;
     justify-content: center;
@@ -431,7 +423,6 @@ nav li a:hover {
     font-weight: 300;
     color: rgb(255, 255, 255);
 }
-
 .blog_span_dates {
     position: absolute;
     top: 30px;
