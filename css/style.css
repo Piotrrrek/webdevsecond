@@ -3,6 +3,7 @@
 * {
     font-family: "Raleway";
 }
+
 /* Header / home */
 
 #home {
@@ -61,9 +62,11 @@ nav li a:hover {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
     background-color: rgb(255, 96, 51);
 }
-.btn1:hover{
+
+.btn1:hover {
     opacity: 0.9;
 }
+
 .btn-getfree {
     /* Style for "GET FREE N" */
     width: 150px;
@@ -107,7 +110,7 @@ nav li a:hover {
     font-size: 17px;
     font-weight: 300;
     line-height: 27px;
-    text-align: left; 
+    text-align: left;
     padding-top: 10px;
 }
 
@@ -128,10 +131,12 @@ nav li a:hover {
 .services_container {
     padding-top: 189px;
 }
-.img_tomato_photo{
+
+.img_tomato_photo {
     position: relative;
     bottom: 80px;
 }
+
 .h_services {
     display: flex;
     justify-content: flex-end;
@@ -234,9 +239,12 @@ nav li a:hover {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
     background-color: rgb(85, 133, 162);
 }
-.btn4:hover{
-    background-color: rgb(50, 133, 162);;
+
+.btn4:hover {
+    background-color: rgb(50, 133, 162);
+    ;
 }
+
 .btn4 span {
     /* Style for "VIEW MORE" */
     width: 114px;
@@ -245,6 +253,7 @@ nav li a:hover {
     font-size: 20px;
     font-weight: 300;
 }
+
 /*Gallery photos*/
 
 .gallery_photos img {
@@ -366,7 +375,7 @@ nav li a:hover {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%);
     overflow: auto;
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#b3000000', GradientType=0);
-    
+
 }
 
 .blog_h4__p {
@@ -398,11 +407,13 @@ nav li a:hover {
     margin-top: 70px;
     display: flex;
     justify-content: center;
-    
+
 }
-.blog_a{
+
+.blog_a {
     text-decoration: none!important;
 }
+
 .blog_button {
     display: flex;
     justify-content: center;
@@ -423,6 +434,7 @@ nav li a:hover {
     font-weight: 300;
     color: rgb(255, 255, 255);
 }
+
 .blog_span_dates {
     position: absolute;
     top: 30px;
@@ -474,6 +486,7 @@ form {
     background-color: #00c4c4;
     opacity: 0.5;
 }
+
 .contact_input:focus {
     opacity: 1.0;
     border-left-color: rgb(53, 91, 130);
@@ -490,16 +503,19 @@ form {
 .text__area::placeholder {
     color: rgb(255, 255, 255);
 }
+
 #contact input[type="text"],
 #contact input[type="email"],
 #contact input[type="tel"],
-.text__area{
+.text__area {
     font-weight: bold;
 }
+
 .contact_input:focus::placeholder,
-.text__area:focus::placeholder{
+.text__area:focus::placeholder {
     font-weight: 700;
 }
+
 .text__area {
     height: 250px;
     width: 100%;
