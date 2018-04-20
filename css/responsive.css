@@ -17,8 +17,6 @@
     #home .home_h {
         padding-top: 200px;
     }
-
-
     /*about us*/
     .h_about_us {
         font-size: 50px;
@@ -36,7 +34,6 @@
         background-size: contain;
         background-color: rgb(112, 191, 255);
     }
-
     .services_h1 {
         padding-bottom: 15px;
         text-align: center;
@@ -44,11 +41,9 @@
         font-weight: 600;
         color: rgb(255, 255, 255);
     }
-
     .services_container {
         padding-top: 65px;
     }
-
     /*gallery*/
     #gallery .row {
         max-width: 90%;
@@ -60,7 +55,6 @@
     .img-responsive {
         margin: 0 auto;
     }
-
     /*subscribe*/
     #subscribe {
         background: none;
@@ -83,8 +77,6 @@
     #blog img {
         margin-top: 20px;
     }
-
-
     /*contact*/
     #contact {
         padding-bottom: 25px;
@@ -120,12 +112,10 @@
 }
 
 @media(max-width:768px) {
-
     /*navigation*/
     .navbar {
         background-color: rgb(255, 255, 255)!important;
     }
-
     /*home*/
     #home {
         background: url('../images/header/background1.jpg') no-repeat center center;
